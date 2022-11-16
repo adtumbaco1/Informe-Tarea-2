@@ -88,3 +88,6 @@ Fusible de 1A<br />
 Resistencia de 15Ω<br />
 **Ejercicio 34: Un circuito atenuador de luz de 110 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 1 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2035%20cap%203.PNG)<br />
+**•	Sección 3.5 Introducción a la localización de fallas**<br /><br />
+**37.	Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?**<br />
+Tomará cinco lecturas de resistencia.<br />
