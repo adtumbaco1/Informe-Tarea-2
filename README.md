@@ -30,3 +30,5 @@ V=I*R<br /><br />
 **5. Se conecta una fuente de voltaje variable al circuito de la figura 3.18. Comience con 0V e incremente el voltaje en pasos de 10V hasta 100V. Determine la corriente de cada voltaje y trace una gráfica de V contra I ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?**<br />
 <em>Primero se realiza la tabla de valores, dándole los valores pedidos al voltaje, iniciando de 0 hasta 10, calculamos la corriente con la ley de Ohm y una vez obtenido los valores para cada uno armamos la gráfica con los valores.<em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%205%20cap%203.PNG)<br /><br />
+La gráfica es una línea recta.<br />
+Indica que la corriente es linealmente proporcional al voltaje.<br />
