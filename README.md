@@ -134,7 +134,6 @@ Tomará cinco lecturas de resistencia.<br /><br />
 **•	Sección 4.3 Clasificaciones de potencias en resistores**<br /><br />
 **27.	Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**<br />
 El de 12W, que me permite tener un margen de seguridad por lo mínimo del 20% para su uso.<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%204.PNG)<br />
 **•	Sección 4.5 Fuentes de potencia**<br /><br />
 **29.	Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**<br />
 **31.	¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**<br />
