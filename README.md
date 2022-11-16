@@ -34,4 +34,9 @@ La gráfica es una línea recta.<br />
 Indica que la corriente es linealmente proporcional al voltaje.<br />
 **7. La figura 3.19 es una gráfica de corriente contra voltaje para 3 valores de resistencia. Determine R1, R2, R3.**<br />
 <em>Usamos la fórmula de la ley de ohm para calcular el valor de la resistencia de cada uno. En este caso usamos R=V/I</em>
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%207%20cap%203.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%207%20cap%203.PNG)<br /><br /><br />
+**9.	Trace la relación corriente – voltaje para un resistor de 5 bandas con código de colores café, verde, gris, café, rojo.**<br />
+<em>Primero identificamos cual es el valor de la resistencia, una vez obtenido su valor pasamos a calcular el de la corriente dando distintos valores al voltaje, nos ayudamos formando la tabla de valores y usando la ley de Ohm.</em><br />
+El valor de la resistencia de colores café, verde, gris, café, rojo es:<br />
+1580 Ω  transformamos a KΩ es 1.58 KΩ<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%207%20cap%203.PNG)<br /><br /><br />
