@@ -77,14 +77,14 @@ c)  Caída de voltaje a través de cada tramo**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%203.PNG)<br />
 **•	Sección 3.4 Cálculo de la resistencia**<br /><br />
 **29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:**<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%203.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2029%20cap%203.PNG)<br />
 **31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?**<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%203.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2031%20cap%203.PNG)<br />
 **33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuáles el problema con el circuito?**<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%203.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2033%20cap%203.PNG)<br />
 **35. 	Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.**<br />
 Voltaje 110V<br />
 Fusible de 1A<br />
 Resistencia de 15Ω<br />
 **Ejercicio 34: Un circuito atenuador de luz de 110 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 1 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.**<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%203.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2035%20cap%203.PNG)<br />
