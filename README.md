@@ -9,8 +9,8 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Teoria%20Cap%203.jpg)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Teoria%20cap%204.PNG)<br /><br />
 **3. Problemas (IMPARES)**<br />
-**3.1 Capítulo 3**<br /><br />
-**•	Sección 3.1 Energía y potencia**<br />
+**3.1  Capítulo 3**<br /><br />
+**•	Sección 3.1 La relación de corriente, voltaje y resistencia**<br />
 <em>Para estos ejercicios aplicamos lo aprendido en cómo funciona la relación entre corriente, voltaje y resistencia, para así poder realizar las gráficas o saber si la corriente se duplica o disminuye.</em><br /><br />
 **1.	En un circuito compuesto de una fuente de voltaje y un resistor, describa que le sucede a la corriente cuando:**<br />
 **a)	El voltaje se triplica**<br />
@@ -90,4 +90,39 @@ Resistencia de 15Ω<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2035%20cap%203.PNG)<br />
 **•	Sección 3.5 Introducción a la localización de fallas**<br /><br />
 **37.	Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?**<br />
-Tomará cinco lecturas de resistencia.<br />
+Tomará cinco lecturas de resistencia.<br /><br />
+**3.2  Capítulo 4**<br /><br />
+**•	Sección 4.1 Energía y potencia**<br />
+<em>Aplicamos lo aprendido durante esta sección, al igual que de lo aprendido en el capítulo anterior para así resolver los ejercicios.</em><br /><br />
+**1.	Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**<br />
+**3.	¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**<br />
+**5.	¿A cuántos watts equivalen 1000 J en 50 ms?**<br />
+**7.	Convierta las siguientes cantidades en megawatts:**<br />
+	**a)**<br />
+	**b)**<br />
+	**c)**<br />
+	**d)**<br />
+**9.	Convierta las siguientes cantidades en microwatts:**<br />
+	**a)**<br />
+	**b)**<br />
+	**c)**<br />
+	**d)**<br />
+**11.	Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**<br />
+**13.	Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**<br />
+**15.	Convierta 6700 watts-segundos en kWh.**<br />
+**•	Sección 4.2 Potencia en un circuito eléctrico**<br /><br />
+**17.	Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**<br />
+**19.	Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?**<br />
+**21.	Calcule la potencia disipada por un resistor de 10 KΩ que transporta 100 mA.**<br />
+**23.	Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?**<br />
+**25.	Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω.**<br />
+	**a) ¿Cuánta energía se utiliza en dos minutos?**<br />
+	**b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?**<br />
+**•	Sección 4.3 Clasificaciones de potencias en resistores**<br /><br />
+**27.	Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**<br />
+**•	Sección 4.5 Fuentes de potencia**<br /><br />
+**29.	Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**<br />
+**31.	¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**<br />
+**33.	¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?**<br />
+**35.	Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?**<br />
+**37.	Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?**<br />
