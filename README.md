@@ -101,16 +101,8 @@ Tomará cinco lecturas de resistencia.<br /><br />
 **5.	¿A cuántos watts equivalen 1000 J en 50 ms?**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%205%20cap%204.PNG)<br />
 **7.	Convierta las siguientes cantidades en megawatts:**<br />
-	**a)**<br />
-	**b)**<br />
-	**c)**<br />
-	**d)**<br />
 	![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%207%20cap%204.PNG)<br />
 **9.	Convierta las siguientes cantidades en microwatts:**<br />
-	**a)**<br />
-	**b)**<br />
-	**c)**<br />
-	**d)**<br />
 	![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%209%20cap%204.PNG)<br />
 **11.	Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2011%20cap%204.PNG)<br />
