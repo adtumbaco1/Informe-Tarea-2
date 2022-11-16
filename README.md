@@ -70,8 +70,8 @@ d)	100 Ω R4**<br />
 **25. Se lee tres amperes de corriente a través de un resistor de 27Ω conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?**
 <em>Usamos ley de Ohm y reemplazamos los valores ya conocidos.</em><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2025%20cap%203.PNG)<br />
-**27. 	Se desconecta una fuente de 6V a un resistor de 100Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia de dos alambres sumada al resistor de 100Ω. Determine lo siguiente:
-a)	Corriente
-b)  Caída de voltaje en el resistor 
-c)  Caída de voltaje a través de cada tramo**
+**27. 	Se desconecta una fuente de 6V a un resistor de 100Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia de dos alambres sumada al resistor de 100Ω. Determine lo siguiente:<br />
+a)	Corriente<br />
+b)  Caída de voltaje en el resistor <br />
+c)  Caída de voltaje a través de cada tramo**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%203.PNG)<br />
