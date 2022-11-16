@@ -48,4 +48,4 @@ a)	1.0Ω R1<br />
 b)	5.0 Ω R2<br />
 c)	20 Ω R3<br />
 d)	100 Ω R4**<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%209%20cap%203.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2013%20cap%203.PNG)<br /><br />
