@@ -95,31 +95,46 @@ Tomará cinco lecturas de resistencia.<br /><br />
 **•	Sección 4.1 Energía y potencia**<br />
 <em>Aplicamos lo aprendido durante esta sección, al igual que de lo aprendido en el capítulo anterior para así resolver los ejercicios.</em><br /><br />
 **1.	Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%201%20cap%204.PNG)<br />
 **3.	¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%203%20cap%204.PNG)<br />
 **5.	¿A cuántos watts equivalen 1000 J en 50 ms?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%205%20cap%204.PNG)<br />
 **7.	Convierta las siguientes cantidades en megawatts:**<br />
 	**a)**<br />
 	**b)**<br />
 	**c)**<br />
 	**d)**<br />
+	![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%207%20cap%204.PNG)<br />
 **9.	Convierta las siguientes cantidades en microwatts:**<br />
 	**a)**<br />
 	**b)**<br />
 	**c)**<br />
 	**d)**<br />
+	![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%209%20cap%204.PNG)<br />
 **11.	Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2011%20cap%204.PNG)<br />
 **13.	Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2013%20cap%204.PNG)<br />
 **15.	Convierta 6700 watts-segundos en kWh.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2015%20cap%204.PNG)<br />
 **•	Sección 4.2 Potencia en un circuito eléctrico**<br /><br />
 **17.	Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2017%20cap%204.PNG)<br />
 **19.	Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2019%20cap%204.PNG)<br />
 **21.	Calcule la potencia disipada por un resistor de 10 KΩ que transporta 100 mA.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2021%20cap%204.PNG)<br />
 **23.	Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2023%20cap%204.PNG)<br />
 **25.	Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω.**<br />
 	**a) ¿Cuánta energía se utiliza en dos minutos?**<br />
 	**b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?**<br />
+	![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2025%20cap%204.PNG)<br />
 **•	Sección 4.3 Clasificaciones de potencias en resistores**<br /><br />
 **27.	Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**<br />
+El de 12W, que me permite tener un margen de seguridad por lo mínimo del 20% para su uso.<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%204.PNG)<br />
 **•	Sección 4.5 Fuentes de potencia**<br /><br />
 **29.	Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**<br />
 **31.	¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**<br />
