@@ -63,3 +63,15 @@ d)	100 Ω R4**<br />
 **21.	Si el voltaje del problema 20 se duplica ¿se fundiría un fusible de 0.5A? Explique su respuesta.**
 <em>Usamos ley de ohm para calcular cual es valor de la corriente que pasa por el fusible y que sucede cuando se incrementa.</em><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2021%20cap%203.PNG)<br />
+**•	Sección 3.3 Cálculo de voltaje**<br /><br />
+**23. Calcule el voltaje para cada valor de I y R.**
+<em>Aplicamos ley de ohm usando la siguiente fórmula V=I*R y reemplazamos los valores.</em><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2021%20cap%203.PNG)<br />
+**25. Se lee tres amperes de corriente a través de un resistor de 27Ω conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?**
+<em>Usamos ley de Ohm y reemplazamos los valores ya conocidos.</em><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2021%20cap%203.PNG)<br />
+**27. 	Se desconecta una fuente de 6V a un resistor de 100Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia de dos alambres sumada al resistor de 100Ω. Determine lo siguiente:
+a)	Corriente
+b)  Caída de voltaje en el resistor 
+c)  Caída de voltaje a través de cada tramo**
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2027%20cap%203.PNG)<br />
