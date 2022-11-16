@@ -24,4 +24,8 @@ El valor de la corriente aumenta en un 35%<br />
 **e)	El voltaje se duplica y la resistencia se reduce a la mitad**<br />
 El valor de la corriente se duplica a causa del voltaje y aumenta 2 veces más porque el valor de la resistencia se reduce a la mitad, es decir, que el valor de la corriente se cuadruplica. <br />
 **f)	El voltaje y la resistencia se duplican**<br />
-El valor de la corriente se duplica por el voltaje, pero se reduce a la mitad porque el valor de la resistencia se duplica, por lo tanto su valor no cambia.<br />
+El valor de la corriente se duplica por el voltaje, pero se reduce a la mitad porque el valor de la resistencia se duplica, por lo tanto su valor no cambia.<br /><br />
+**3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.**<br />
+V=I*R<br /><br />
+**5. Se conecta una fuente de voltaje variable al circuito de la figura 3.18. Comience con 0V e incremente el voltaje en pasos de 10V hasta 100V. Determine la corriente de cada voltaje y trace una gráfica de V contra I ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?**<br />
+<em>Primero se realiza la tabla de valores, dándole los valores pedidos al voltaje, iniciando de 0 hasta 10, calculamos la corriente con la ley de Ohm y una vez obtenido los valores para cada uno armamos la gráfica con los valores.<em><br /><br />
