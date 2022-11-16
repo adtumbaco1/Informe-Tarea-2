@@ -53,13 +53,13 @@ d)	100 Ω R4**<br />
 <em>Aplicamos lo aprendido durante esta sección, ayudándonos de la ley de Ohm para realizar el cálculo de la corriente, teniendo ya conocido los valores de voltaje y resistencia.</em><br />
 **15. Determine la corriente en cada caso**<br />
 <em>Usamos la ley de ohm con la fórmula I=V/R y reemplazamos los valores.</em><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2013%20cap%203.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2015%20cap%203.PNG)<br /><br />
 **17. Se conecta un resistor de 10Ω a través de una batería de 12V. ¿Cuál es la corriente a través del resistor?**<br />
 <em>Usamos ley de ohm y reemplazamos los valores para conocer cuánto es la corriente que atraviesa el resistor.</em><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2013%20cap%203.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2017%20cap%203.PNG)<br /><br />
 **19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.**<br />
 <em>Determinamos primero cual es el valor de la resistencia a través de los colores, y después aplicamos ley de ohm según sea necesario.</em><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2013%20cap%203.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2019%20cap%203.PNG)<br /><br />
 **21.	Si el voltaje del problema 20 se duplica ¿se fundiría un fusible de 0.5A? Explique su respuesta.**
 <em>Usamos ley de ohm para calcular cual es valor de la corriente que pasa por el fusible y que sucede cuando se incrementa.</em><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2013%20cap%203.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2021%20cap%203.PNG)<br /><br />
