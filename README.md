@@ -95,29 +95,40 @@ Tomará cinco lecturas de resistencia.<br /><br />
 **•	Sección 4.1 Energía y potencia**<br />
 <em>Aplicamos lo aprendido durante esta sección, al igual que de lo aprendido en el capítulo anterior para así resolver los ejercicios.</em><br /><br />
 **1.	Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**<br />
+<em>Primero vemos la formula de voltaje, tambien la formula de corriente y multipliamos las dos para ver la solución.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%201%20cap%204.PNG)<br />
 **3.	¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**<br />
+<em>Usamos la formula de la potencia con los datos que tenemos.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%203%20cap%204.PNG)<br />
 **5.	¿A cuántos watts equivalen 1000 J en 50 ms?**<br />
+<em>Usamos la fórmula de potencia y calculamos.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%205%20cap%204.PNG)<br />
 **7.	Convierta las siguientes cantidades en megawatts:**<br />
+<em>Aplicamos notación de ingenieria con ayuda de los prefijos métricos.</em><br /><br />
 	![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%207%20cap%204.PNG)<br />
 **9.	Convierta las siguientes cantidades en microwatts:**<br />
+<em>Aplicamos notación de ingenieria con ayuda de los prefijos métricos.</em><br /><br />
 	![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%209%20cap%204.PNG)<br />
 **11.	Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**<br />
+<em>Usamos la fórmula de potencia con los datos conocidos.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2011%20cap%204.PNG)<br />
 **13.	Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**<br />
+<em>Usamos la fórmula de potencia.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2013%20cap%204.PNG)<br />
 **15.	Convierta 6700 watts-segundos en kWh.**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2015%20cap%204.PNG)<br />
 **•	Sección 4.2 Potencia en un circuito eléctrico**<br /><br />
 **17.	Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**<br />
+<em>Usamos la fórmula de corriente y despejamos R y resolvemos.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2017%20cap%204.PNG)<br />
 **19.	Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?**<br />
+<em>Usamos la fórmula de potencia con los datos que tenemos conocidos.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2019%20cap%204.PNG)<br />
 **21.	Calcule la potencia disipada por un resistor de 10 KΩ que transporta 100 mA.**<br />
+<em>Usamos la fórmula de potencia y verificamos que datos tenemos y reemplazamos en la ecuación.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2021%20cap%204.PNG)<br />
 **23.	Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?**<br />
+<em>Usamos la fórmula de potencia con los datos conocidos.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2023%20cap%204.PNG)<br />
 **25.	Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω.**<br />
 	**a) ¿Cuánta energía se utiliza en dos minutos?**<br />
@@ -128,12 +139,17 @@ Tomará cinco lecturas de resistencia.<br /><br />
 El de 12W, que me permite tener un margen de seguridad por lo mínimo del 20% para su uso.<br />
 **•	Sección 4.5 Fuentes de potencia**<br /><br />
 **29.	Una carga de 50Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**<br />
+<em>Usamos la fórmula de potencia y despejamos el voltaje y reemplazamos los valores conocidos.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2029%20cap%204.PNG)<br />
 **31.	¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**<br />
+<em>Usamos las dor formas distintas de la fórmula de potencia y despejamos los valores que necesitamos y reemplazamos los datos conocidos.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2031%20cap%204.PNG)<br />
 **33.	¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?**<br />
+<em>Dividimos la cantidad de la batería para las horas.</em><br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2033%20cap%204.PNG)<br />
-**35.	Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?**<br />![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2035%20cap%204.PNG)<br />
+**35.	Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?**<br />
+<em>Usamos las fórmulas de perdida de potencia y también la fórmula de eficiencia y reemplazamos los valores y resolvemos.</em><br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2035%20cap%204.PNG)<br />
 **37.	Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?**<br />
 Utiliza 0.08kWh de la fuente de potencia.<br />
 **4. Video**<br />
