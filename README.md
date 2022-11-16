@@ -43,3 +43,9 @@ El valor de la resistencia de colores café, verde, gris, café, rojo es:<br />
 **11. Se mide la corriente en un circuito que opera con una batería de 10V. El amperímetro lee 50mA. Más tarde, se observa que la corriente cae a 30mA. Eliminando la posibilidad de un cambio de resistencia debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?**<br />
 <em>Primero revisamos que datos nomas tenemos, una vez obtenido todos los datos usamos ley de ohm para conocer el valor de la resistencia, ya con el valor de la resistencia calculamos el valor del voltaje con los 30mA y obtenemos cal es el valor actual de la batería.</em><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%2011%20cap%203.PNG)<br /><br />
+**13. Trace una gráfica de corriente contra voltaje con valores de voltaje que va desde 10 a 100V, incrementando de 10V, para cada uno de los siguientes valores de resistencia.<br />
+a)	1.0Ω R1<br />
+b)	5.0 Ω R2<br />
+c)	20 Ω R3<br />
+d)	100 Ω R4**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Ejercicio%209%20cap%203.PNG)<br /><br />
