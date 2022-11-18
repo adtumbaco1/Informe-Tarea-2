@@ -153,7 +153,7 @@ El de 12W, que me permite tener un margen de seguridad por lo mínimo del 20% pa
 **37.	Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?**<br />
 Utiliza 0.08kWh de la fuente de potencia.<br />
 **4. Video**<br />
-
+https://youtu.be/DgHN1FDvIxI
 **5. Conclusiones**<br />
 •	Aquirir los conocimientos sobre la ley de Ohm a sido de mucha ayuda, ya que facilita la forma de calcular, el voltaje, resistencia y corriente que pasa por un circuito en un problema, dichos conocimientos también ya se pueden aplicar en la realidad para calcular y ver ssi nuestro cirrcuito tiene alguna falla o no.<br />
 •	Conocer el uso y la forma de aplicar la energía y potencia como calcular, también nos permite hacer de forma rápida el cálculo de cuanta energía traspasa en el circuito y conocer los tipos de fuentes de potencia que podemos usar también nos ayuda a tener un conocimiento más amplio para conciderar cual fuente es mejor en cada situación a usarla..<br />
